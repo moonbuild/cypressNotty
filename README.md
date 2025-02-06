@@ -1,4 +1,4 @@
-# Vite React TypeScript Application
+# Vite React TypeScript Application with Cypress Testing
 
 A React application built with Vite, TypeScript, shadcn/ui, it is a basic notes app.
 
