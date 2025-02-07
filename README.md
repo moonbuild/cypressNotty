@@ -7,7 +7,7 @@ A React application built with Vite, TypeScript, shadcn/ui, it is a basic notes 
 - ⚡️ Built with Vite for lightning-fast development
 - 🎯 TypeScript for type safety
 - 🎨 shadcn/ui for beautiful, accessible components
-
+- 🕵️ cypress for testing
 
 ## Prerequisites
 
@@ -18,8 +18,8 @@ A React application built with Vite, TypeScript, shadcn/ui, it is a basic notes 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tanishq-cloud/Notty.git
-cd Hoo
+https://github.com/moonbuild/cypressNotty.git
+cd cypressNotty
 ```
 
 2. Install dependencies:
